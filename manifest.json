@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Personal Dashboard",
-    "version": "1.0.0",
-    "description": "Just for practicing async JS",
+    "name": "tabbysite",
+    "version": "0.9.0",
+    "description": "",
     "action": {
         "default_icon": "icon.png"
     },
